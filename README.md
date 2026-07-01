@@ -4,8 +4,8 @@ This project implements a parameterized Synchronous FIFO using SystemVerilog alo
 ## Waveform
 ![Waveform](waveform.png)
 ## Simulation Output 1
-![Simulation 1](simulation_output.png)
+![Simulation 1](Simulation_output.png)
 ## Simulation Output 2
-![Simulation 2](simulation_output1.png)
+![Simulation 2](Simulation_output1.png)
 ## Simulation Output 3
-![Simulation 3](simulation_output2.png)
+![Simulation 3](Simulation_output2.png)
